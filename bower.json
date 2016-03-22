@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alexandre Roba <alexandre.roba@arobanet.be>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AlexandreRoba/library",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}

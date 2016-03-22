@@ -2,4 +2,4 @@
 node_modules
 js
 typings
-!public/js
+public/lib
